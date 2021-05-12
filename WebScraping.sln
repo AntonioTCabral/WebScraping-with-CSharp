@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScraping.Web", "WebScraping.Web\WebScraping.Web.csproj", "{7F81EE45-9B08-47C6-BD2B-5DA34B07BBD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScraping.Core", "WebScraping.Core\WebScraping.Core.csproj", "{212EC3B6-6D6E-4B69-BDA0-58104313C9A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScraping.Infrastructure", "WebScraping.Infrastructure\WebScraping.Infrastructure.csproj", "{79763100-8C23-4AFE-80B8-B837763E8119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F81EE45-9B08-47C6-BD2B-5DA34B07BBD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F81EE45-9B08-47C6-BD2B-5DA34B07BBD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F81EE45-9B08-47C6-BD2B-5DA34B07BBD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F81EE45-9B08-47C6-BD2B-5DA34B07BBD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212EC3B6-6D6E-4B69-BDA0-58104313C9A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212EC3B6-6D6E-4B69-BDA0-58104313C9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212EC3B6-6D6E-4B69-BDA0-58104313C9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212EC3B6-6D6E-4B69-BDA0-58104313C9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79763100-8C23-4AFE-80B8-B837763E8119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79763100-8C23-4AFE-80B8-B837763E8119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79763100-8C23-4AFE-80B8-B837763E8119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79763100-8C23-4AFE-80B8-B837763E8119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

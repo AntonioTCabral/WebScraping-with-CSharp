@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_WebScraping.-502701282.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WebScraping.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Command" t="Include">
+          <e p="Handler" t="Include">
+            <e p="WebScrappingCommandHandler.cs" t="Include" />
+          </e>
+          <e p="WebScrapingCommand.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="BaseEntity.cs" t="Include" />
+          <e p="FileInformation.cs" t="Include" />
+        </e>
+        <e p="GitHubPage.cs" t="Include" />
+        <e p="Interface" t="Include">
+          <e p="Repository" t="Include">
+            <e p="IFileInformationrepository.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Models" t="Include">
+          <e p="Request" t="Include">
+            <e p="WebScrapingRequest.cs" t="Include" />
+          </e>
+          <e p="Response" t="Include">
+            <e p="WebScrapingResponse.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="WebScraping.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="WebScraping.Core.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WebScraping.Infrastructure" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Data" t="Include">
+          <e p="AppDbContext.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="WebScraping.Infrastructure.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repository" t="Include">
+          <e p="FileInformationRepository.cs" t="Include" />
+        </e>
+        <e p="WebScraping.Infrastructure.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WebScraping.sln" t="IncludeFlat" />
+      <e p="WebScraping.Web" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="WebScrapingController.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="WebScraping.Web.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WebScraping.Web.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
